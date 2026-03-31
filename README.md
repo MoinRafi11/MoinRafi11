@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Moin</h1>
-<h3 align="center">💻 Aspiring Web Developer | 🚀 React Learner | 🤖 AI Enthusiast</h3>
+<h3 align="center">💻 Aspiring Web Developer | 🚀 REACT | 🤖 AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer;React+Learner;Building+Projects;Open+to+Internships" />
